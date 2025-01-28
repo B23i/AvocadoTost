@@ -1,2 +1,2 @@
 # AvocadoTost
-avocado toast supply chain analysis, we will analyze the supply of avocado, olive oil and sourdough bread used in toast with python and pandas library.
+avocado toast supply chain analysis, we will analyze the supply of avocado, olive oil and sourdough bread used in toast with python and pandas library, this is done by defining a function that finds the most common country of origin with the csv data files given to us. At the same time, some filtering and editing is done to the data file to make it more readable.
